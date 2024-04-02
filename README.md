@@ -12,6 +12,12 @@ from steamwebtools import *
 ```
 # Commands
 Here are all the commands included in the library: <br>
+Note: If you encounter an error with this library, you may need to convert the returned value into a string. <br> Example:
+```
+vac = isvacenabled(440) # Using App ID 440 (Team Fortress 2) as an example
+vac = str(vac)
+print(vac)
+```
 __isvacenabled(app_id)__
 ```
 vac = isvacenabled(440) # Using App ID 440 (Team Fortress 2) as an example
