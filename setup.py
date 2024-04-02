@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0' 
+VERSION = '1.1' 
 DESCRIPTION = 'A simple Python library to get information about Steam games using their webpage'
 LONG_DESCRIPTION = 'A simple Python library to get information about Steam games using their webpage to check for attributes'
 

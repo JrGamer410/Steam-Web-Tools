@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+steamwebtools.py
+steam_web_tools.egg-info/PKG-INFO
+steam_web_tools.egg-info/SOURCES.txt
+steam_web_tools.egg-info/dependency_links.txt
+steam_web_tools.egg-info/top_level.txt

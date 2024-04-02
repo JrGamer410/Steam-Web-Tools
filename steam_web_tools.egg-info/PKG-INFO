@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: steam-web-tools
+Version: 1.1
+Summary: A simple Python library to interact with the Return YouTube Dislike API
+Author: Sean-e
+Author-email: Sean-e <seane410@gmail.com>
+Project-URL: Homepage, https://github.com/JrGamer410/steam-web-tools
+Project-URL: Issues, https://github.com/JrGamer410/steam-web-tools/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Steam Web Tools
+ A simple Python library to get information about Steam apps using their webpage
